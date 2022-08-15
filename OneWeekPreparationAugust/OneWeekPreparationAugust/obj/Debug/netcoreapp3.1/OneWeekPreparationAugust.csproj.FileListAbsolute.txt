@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.exe
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.deps.json
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.runtimeconfig.json
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.dll
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.pdb
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.dll
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.pdb
+C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.genruntimeconfig.cache
