@@ -39,6 +39,17 @@ namespace OneWeekPreparationAugust
             Console.WriteLine(min.ToString() + " " + max.ToString());            
         }
 
+        public static void miniMaxSumImprovement(List<int> arr)
+        {
+            long sumaTotal = 0;
+            arr.ForEach(n => sumaTotal+=n);
+            arr.Sort();
+            var min = sumaTotal - arr[arr.Count -1];
+            var max = sumaTotal - arr[0];
+            
+            Console.WriteLine(min.ToString() + " " + max.ToString());            
+        }
+
         public static string timeConversion(string s)
         {
             if (s.EndsWith("AM"))

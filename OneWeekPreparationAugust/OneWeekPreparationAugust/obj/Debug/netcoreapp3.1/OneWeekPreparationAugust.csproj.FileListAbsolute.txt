@@ -12,3 +12,17 @@ C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\o
 C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.dll
 C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.pdb
 C:\Users\LENOVO\source\repos\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.genruntimeconfig.cache
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.dll
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.pdb
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.exe
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.deps.json
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.runtimeconfig.json
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.runtimeconfig.dev.json
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.dll
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\bin\Debug\netcoreapp3.1\OneWeekPreparationAugust.pdb
+C:\Users\Leonardo\source\repos\one-week-preparation\OneWeekPreparationAugust\OneWeekPreparationAugust\obj\Debug\netcoreapp3.1\OneWeekPreparationAugust.genruntimeconfig.cache
