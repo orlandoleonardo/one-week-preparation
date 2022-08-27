@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\OneWeekPreparationAugust.csproj": {}
+    "C:\\Users\\Leonardo\\source\\repos\\one-week-preparation\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\OneWeekPreparationAugust.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\OneWeekPreparationAugust.csproj": {
+    "C:\\Users\\Leonardo\\source\\repos\\one-week-preparation\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\OneWeekPreparationAugust.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\OneWeekPreparationAugust.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo\\source\\repos\\one-week-preparation\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\OneWeekPreparationAugust.csproj",
         "projectName": "OneWeekPreparationAugust",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\OneWeekPreparationAugust.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\obj\\",
+        "projectPath": "C:\\Users\\Leonardo\\source\\repos\\one-week-preparation\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\OneWeekPreparationAugust.csproj",
+        "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leonardo\\source\\repos\\one-week-preparation\\OneWeekPreparationAugust\\OneWeekPreparationAugust\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }

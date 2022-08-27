@@ -7,9 +7,11 @@ namespace OneWeekPreparationAugust
     {
         static void Main(string[] args)
         {
-            var numbers = new List<int>() { 1,2,3,4,5,6,7 };
+            var numbers = new List<int>() { 1,2,1,4,2,5,5 };
 
-            DayOne.miniMaxSumImprovement(numbers);
+            var lonelyIntegerValue = DayTwo.lonelyInteger(numbers);
+
+            Console.WriteLine(lonelyIntegerValue.ToString());
         }
     }
 }
