@@ -102,5 +102,40 @@ namespace OneWeekPreparationAugust
 
             return resultado.ToString();
         }
+
+        //Mock Test
+        //Palindrome Index
+        //Solution explanation
+        /*
+        By first checking whether the original string is a palindrome you can find the spot where it fails, which leaves you with just 2 possibilities for deletion. 
+        So you would only need to try those two. 
+        Moreover, you don't actually have to perform the deletion. 
+        You can just skip the concerned character and continue the palindrome check by skipping the corresponding index.
+         */
+        public static int palindromeIndex(String s)
+        {
+            int start = 0;
+            int end = s.Length - 1;
+            while (start < end && s[start] == s[end])
+            {
+                start++;
+                end--;
+            }
+            if (start >= end) return -1; // already a palindrome
+            // We need to delete here
+            if (isPalindrome(s, start + 1, end)) return start;
+            if (isPalindrome(s, start, end - 1)) return end;
+            return -1;
+        }
+
+        public static bool isPalindrome(String s, int start, int end)
+        {
+            while (start < end && s[start] == s[end])
+            {
+                start++;
+                end--;
+            }
+            return start >= end;
+        }
     }
 }
